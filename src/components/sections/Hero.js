@@ -67,7 +67,7 @@ const Hero = ({
                 className="m-0 mb-32 reveal-from-bottom"
                 data-reveal-delay="400"
               >
-                Innovation Focused Development.
+                High Velocity Innovation
               </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
@@ -77,7 +77,7 @@ const Hero = ({
                     wideMobile
                     href="https://cruip.com/"
                   >
-                    Get started
+                    Blog
                   </Button>
                   <Button
                     tag="a"
@@ -104,7 +104,7 @@ const Hero = ({
             >
               <Image
                 className="has-shadow"
-                src={require("./../../assets/images/video-placeholder.jpg")}
+                src={require("./../../assets/images/Entrega_de_las_llaves_a_San_Pedro_Perugino.jpeg")}
                 alt="Hero"
                 width={896}
                 height={504}

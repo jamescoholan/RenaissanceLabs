@@ -1,0 +1,23 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-renaissancelabs-dev-230210-authRole",
+            "UnauthRoleArn": "arn:aws:iam::757887447730:role/amplify-renaissancelabs-dev-230210-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::757887447730:role/amplify-renaissancelabs-dev-230210-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-renaissancelabs-dev-230210-deployment",
+            "UnauthRoleName": "amplify-renaissancelabs-dev-230210-unauthRole",
+            "StackName": "amplify-renaissancelabs-dev-230210",
+            "StackId": "arn:aws:cloudformation:us-west-2:757887447730:stack/amplify-renaissancelabs-dev-230210/4bf68290-9e79-11eb-a102-023aea6cd5b7",
+            "AmplifyAppId": "d214lfjw3d1gst"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d214lfjw3d1gst",
+                    "type": "cicd"
+                }
+            }
+        }
+    }
+}
