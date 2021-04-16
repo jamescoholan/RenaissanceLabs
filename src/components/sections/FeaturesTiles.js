@@ -3,6 +3,7 @@ import classNames from "classnames";
 import { SectionTilesProps } from "../../utils/SectionProps";
 import SectionHeader from "./partials/SectionHeader";
 import Image from "../elements/Image";
+import Button from "../elements/Button";
 
 const propTypes = {
   ...SectionTilesProps.types,
@@ -44,8 +45,7 @@ const FeaturesTiles = ({
 
   const sectionHeader = {
     title: "Products",
-    paragraph:
-      "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.",
+    paragraph: "Solving problems and creating value for our users.",
   };
 
   return (
@@ -67,7 +67,14 @@ const FeaturesTiles = ({
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">Citizen Saturday</h4>
+                  <Button
+                    tag="a"
+                    color="dark"
+                    wideMobile
+                    href="https://main.da1pi863uofsj.amplifyapp.com"
+                  >
+                    Citizen Saturday
+                  </Button>
                   <p className="m-0 text-sm">
                     Make going out actually worth it.
                   </p>
@@ -91,8 +98,17 @@ const FeaturesTiles = ({
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">Dating App</h4>
-                  <p className="m-0 text-sm">A better experience.</p>
+                  <Button
+                    tag="a"
+                    color="dark"
+                    wideMobile
+                    href="https://github.com/cruip/open-react-template/"
+                  >
+                    Worklife
+                  </Button>
+                  <p className="m-0 text-sm">
+                    Creating incentives for a healthier life using biometrics.
+                  </p>
                 </div>
               </div>
             </div>
@@ -113,7 +129,14 @@ const FeaturesTiles = ({
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">Agora</h4>
+                  <Button
+                    tag="a"
+                    color="dark"
+                    wideMobile
+                    href="https://www.experienceagora.com"
+                  >
+                    Agora
+                  </Button>
                   <p className="m-0 text-sm">Virtual Concerts</p>
                 </div>
               </div>
@@ -132,7 +155,14 @@ const FeaturesTiles = ({
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">Colosseum</h4>
+                  <Button
+                    tag="a"
+                    color="dark"
+                    wideMobile
+                    href="https://github.com/cruip/open-react-template/"
+                  >
+                    Colosseum
+                  </Button>
                   <p className="m-0 text-sm">Music Bookings</p>
                 </div>
               </div>
@@ -154,7 +184,15 @@ const FeaturesTiles = ({
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">Amor</h4>
+                  <Button
+                    tag="a"
+                    color="dark"
+                    wideMobile
+                    href="https://github.com/cruip/open-react-template/"
+                  >
+                    Amor
+                  </Button>
+
                   <p className="m-0 text-sm">The dating app we need.</p>
                 </div>
               </div>
@@ -176,7 +214,14 @@ const FeaturesTiles = ({
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">Sahara</h4>
+                  <Button
+                    tag="a"
+                    color="dark"
+                    wideMobile
+                    href="https://github.com/cruip/open-react-template/"
+                  >
+                    Sahara
+                  </Button>
                   <p className="m-0 text-sm">
                     Auto Mixing your favorite Music.
                   </p>
