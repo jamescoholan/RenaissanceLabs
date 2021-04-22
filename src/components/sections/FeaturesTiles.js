@@ -76,7 +76,7 @@ const FeaturesTiles = ({
                     Citizen Saturday
                   </Button>
                   <p className="m-0 text-sm">
-                    Make going out actually worth it.
+                    Ironing Out Pain Points of Social Life
                   </p>
                 </div>
               </div>
@@ -107,7 +107,7 @@ const FeaturesTiles = ({
                     Worklife
                   </Button>
                   <p className="m-0 text-sm">
-                    Creating incentives for a healthier life using biometrics.
+                    Creating Incentives for a Healthier Living Using Biometrics
                   </p>
                 </div>
               </div>
@@ -137,7 +137,7 @@ const FeaturesTiles = ({
                   >
                     Agora
                   </Button>
-                  <p className="m-0 text-sm">Virtual Concerts</p>
+                  <p className="m-0 text-sm">A Platform for Virtual Concerts</p>
                 </div>
               </div>
             </div>
@@ -163,7 +163,9 @@ const FeaturesTiles = ({
                   >
                     Colosseum
                   </Button>
-                  <p className="m-0 text-sm">Music Bookings</p>
+                  <p className="m-0 text-sm">
+                    Frictionless Music Bookings Software
+                  </p>
                 </div>
               </div>
             </div>
@@ -193,7 +195,7 @@ const FeaturesTiles = ({
                     Amor
                   </Button>
 
-                  <p className="m-0 text-sm">The dating app we need.</p>
+                  <p className="m-0 text-sm">An Evolution of the Dating App</p>
                 </div>
               </div>
             </div>
@@ -222,9 +224,7 @@ const FeaturesTiles = ({
                   >
                     Sahara
                   </Button>
-                  <p className="m-0 text-sm">
-                    Auto Mixing your favorite Music.
-                  </p>
+                  <p className="m-0 text-sm">Auto Mixing Your Favorite Music</p>
                 </div>
               </div>
             </div>
