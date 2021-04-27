@@ -102,12 +102,12 @@ const FeaturesTiles = ({
                     tag="a"
                     color="dark"
                     wideMobile
-                    href="https://github.com/cruip/open-react-template/"
+                    href="https://www.siren.business"
                   >
-                    Worklife
+                    Siren
                   </Button>
                   <p className="m-0 text-sm">
-                    Creating Incentives for a Healthier Living Using Biometrics
+                    Unlocking Written Content of the Internet Through AI
                   </p>
                 </div>
               </div>
