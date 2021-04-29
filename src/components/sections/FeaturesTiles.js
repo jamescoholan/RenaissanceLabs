@@ -44,8 +44,8 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: "Products",
-    paragraph: "Solving problems and creating value for our users.",
+    title: "Projects",
+    paragraph: "Solving Problems and Creating Value for Users.",
   };
 
   return (
