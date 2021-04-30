@@ -39,7 +39,7 @@ const Footer = ({ className, topOuterDivider, topDivider, ...props }) => {
             <FooterNav />
             <div className="footer-copyright">
               Made by{" "}
-              <a href="https://www.jamescoholan.me/">Renaissance Labs</a>.
+              <a href="https://www.jamescoholan.me/">Renaissance Labs</a>
             </div>
           </div>
         </div>

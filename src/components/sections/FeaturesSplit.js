@@ -51,7 +51,7 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: "Highlights",
+    title: "Projects",
     paragraph: "Excellence in Execution",
   };
 
@@ -67,12 +67,195 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
-                <h3 className="mt-0 mb-12">Technology & Innovation</h3>
+                <h3 className="mt-0 mb-12">Siren</h3>
                 <p className="m-0">
                   Intensive focus on next generation technology & product
                   development.
                 </p>
-                <p className="m-0">.</p>
+                <p className="m-0">
+                  {" "}
+                  <h1></h1>
+                </p>
+                <div className="reveal-from-bottom" data-reveal-delay="600">
+                  <ButtonGroup>
+                    <Button
+                      tag="a"
+                      color="primary"
+                      wideMobile
+                      href="https://www.siren.business"
+                    >
+                      Siren
+                    </Button>
+                  </ButtonGroup>
+                </div>
+              </div>
+              <div
+                className={classNames(
+                  "split-item-image center-content-mobile reveal-from-bottom",
+                  imageFill && "split-item-image-fill"
+                )}
+                data-reveal-container=".split-item"
+              >
+                <Image
+                  src={require("./../../assets/images/AdobeStock_118793641-1320x740-1.jpeg")}
+                  alt="Features split 01"
+                  width={528}
+                  height={396}
+                />
+              </div>
+            </div>
+
+            <div className="split-item">
+              <div
+                className="split-item-content center-content-mobile reveal-from-right"
+                data-reveal-container=".split-item"
+              >
+                <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
+                <h3 className="mt-0 mb-12">Citizen Saturday</h3>
+                <p className="m-0">
+                  A decade of experience in Digital Media and Entertainment
+                  across Film & Television Acting, Music Production, and
+                  experience at a Major Record Label & Talent Agency.
+                </p>
+                <p className="m-0">
+                  <h1></h1>
+                </p>
+                <div className="reveal-from-bottom" data-reveal-delay="600">
+                  <ButtonGroup>
+                    <Button
+                      tag="a"
+                      color="primary"
+                      wideMobile
+                      href="https://main.da1pi863uofsj.amplifyapp.com"
+                    >
+                      Citizen Saturday
+                    </Button>
+                  </ButtonGroup>
+                </div>
+              </div>
+              <div
+                className={classNames(
+                  "split-item-image center-content-mobile reveal-from-bottom",
+                  imageFill && "split-item-image-fill"
+                )}
+                data-reveal-container=".split-item"
+              >
+                <Image
+                  src={require("./../../assets/images/Hero-Solutions-Media-Entertainment.jpeg")}
+                  alt="Features split 02"
+                  width={528}
+                  height={396}
+                />
+              </div>
+            </div>
+
+            <div className="split-item">
+              <div
+                className="split-item-content center-content-mobile reveal-from-left"
+                data-reveal-container=".split-item"
+              >
+                <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
+                <h3 className="mt-0 mb-12">Agora</h3>
+                <p className="m-0">High Growth Investing</p>
+                <p className="m-0">
+                  <h1></h1>
+                </p>
+                <div className="reveal-from-bottom" data-reveal-delay="600">
+                  <ButtonGroup>
+                    <Button
+                      tag="a"
+                      color="primary"
+                      wideMobile
+                      href="https://www.experienceagora.com"
+                    >
+                      Agora
+                    </Button>
+                  </ButtonGroup>
+                </div>
+              </div>
+
+              <div
+                className={classNames(
+                  "split-item-image center-content-mobile reveal-from-bottom",
+                  imageFill && "split-item-image-fill"
+                )}
+                data-reveal-container=".split-item"
+              >
+                <Image
+                  src={require("./../../assets/images/affiliated-companies-1024x614.webp")}
+                  alt="Features split 03"
+                  width={528}
+                  height={396}
+                />
+              </div>
+            </div>
+            <div className="split-item">
+              <div
+                className="split-item-content center-content-mobile reveal-from-right"
+                data-reveal-container=".split-item"
+              >
+                <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
+                <h3 className="mt-0 mb-12">Citizen Saturday</h3>
+                <p className="m-0">
+                  A decade of experience in Digital Media and Entertainment
+                  across Film & Television Acting, Music Production, and
+                  experience at a Major Record Label & Talent Agency.
+                </p>
+                <p className="m-0">
+                  <h1></h1>
+                </p>
+                <div className="reveal-from-bottom" data-reveal-delay="600">
+                  <ButtonGroup>
+                    <Button
+                      tag="a"
+                      color="primary"
+                      wideMobile
+                      href="https://www.syb-media.com/"
+                    >
+                      SYB Media
+                    </Button>
+                    <Button
+                      tag="a"
+                      color="dark"
+                      wideMobile
+                      href="https://www.experienceagora.com/"
+                    >
+                      Agora
+                    </Button>
+                  </ButtonGroup>
+                </div>
+              </div>
+              <div
+                className={classNames(
+                  "split-item-image center-content-mobile reveal-from-bottom",
+                  imageFill && "split-item-image-fill"
+                )}
+                data-reveal-container=".split-item"
+              >
+                <Image
+                  src={require("./../../assets/images/Hero-Solutions-Media-Entertainment.jpeg")}
+                  alt="Features split 02"
+                  width={528}
+                  height={396}
+                />
+              </div>
+            </div>
+          </div>
+          <div className={splitClasses}>
+            <div className="split-item">
+              <div
+                className="split-item-content center-content-mobile reveal-from-left"
+                data-reveal-container=".split-item"
+              >
+                <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
+                <h3 className="mt-0 mb-12">Siren</h3>
+                <p className="m-0">
+                  Intensive focus on next generation technology & product
+                  development.
+                </p>
+                <p className="m-0">
+                  <h1></h1>
+                </p>
                 <div className="reveal-from-bottom" data-reveal-delay="600">
                   <ButtonGroup>
                     <Button
@@ -116,13 +299,15 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
-                <h3 className="mt-0 mb-12">Digital Media & Entertainment</h3>
+                <h3 className="mt-0 mb-12">Citizen Saturday</h3>
                 <p className="m-0">
                   A decade of experience in Digital Media and Entertainment
                   across Film & Television Acting, Music Production, and
                   experience at a Major Record Label & Talent Agency.
                 </p>
-                <p className="m-0">.</p>
+                <p className="m-0">
+                  <h1></h1>
+                </p>
                 <div className="reveal-from-bottom" data-reveal-delay="600">
                   <ButtonGroup>
                     <Button
@@ -166,9 +351,11 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
-                <h3 className="mt-0 mb-12">Investor</h3>
+                <h3 className="mt-0 mb-12">Agora</h3>
                 <p className="m-0">High Growth Investing</p>
-                <p className="m-0">.</p>
+                <p className="m-0">
+                  <h1></h1>
+                </p>
                 <div className="reveal-from-bottom" data-reveal-delay="600">
                   <ButtonGroup>
                     <Button
@@ -201,6 +388,57 @@ const FeaturesSplit = ({
                 <Image
                   src={require("./../../assets/images/affiliated-companies-1024x614.webp")}
                   alt="Features split 03"
+                  width={528}
+                  height={396}
+                />
+              </div>
+            </div>
+            <div className="split-item">
+              <div
+                className="split-item-content center-content-mobile reveal-from-right"
+                data-reveal-container=".split-item"
+              >
+                <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
+                <h3 className="mt-0 mb-12">Citizen Saturday</h3>
+                <p className="m-0">
+                  A decade of experience in Digital Media and Entertainment
+                  across Film & Television Acting, Music Production, and
+                  experience at a Major Record Label & Talent Agency.
+                </p>
+                <p className="m-0">
+                  <h1></h1>
+                </p>
+                <div className="reveal-from-bottom" data-reveal-delay="600">
+                  <ButtonGroup>
+                    <Button
+                      tag="a"
+                      color="primary"
+                      wideMobile
+                      href="https://www.syb-media.com/"
+                    >
+                      SYB Media
+                    </Button>
+                    <Button
+                      tag="a"
+                      color="dark"
+                      wideMobile
+                      href="https://www.experienceagora.com/"
+                    >
+                      Agora
+                    </Button>
+                  </ButtonGroup>
+                </div>
+              </div>
+              <div
+                className={classNames(
+                  "split-item-image center-content-mobile reveal-from-bottom",
+                  imageFill && "split-item-image-fill"
+                )}
+                data-reveal-container=".split-item"
+              >
+                <Image
+                  src={require("./../../assets/images/Hero-Solutions-Media-Entertainment.jpeg")}
+                  alt="Features split 02"
                   width={528}
                   height={396}
                 />
