@@ -69,8 +69,7 @@ const FeaturesSplit = ({
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
                 <h3 className="mt-0 mb-12">Siren</h3>
                 <p className="m-0">
-                  Intensive focus on next generation technology & product
-                  development.
+                  Unlocking the text content of the internet.
                 </p>
                 <p className="m-0">
                   {" "}
@@ -113,9 +112,7 @@ const FeaturesSplit = ({
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
                 <h3 className="mt-0 mb-12">Citizen Saturday</h3>
                 <p className="m-0">
-                  A decade of experience in Digital Media and Entertainment
-                  across Film & Television Acting, Music Production, and
-                  experience at a Major Record Label & Talent Agency.
+                  Eliminating the pains points of going out.
                 </p>
                 <p className="m-0">
                   <h1></h1>
@@ -156,7 +153,7 @@ const FeaturesSplit = ({
               >
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
                 <h3 className="mt-0 mb-12">Agora</h3>
-                <p className="m-0">High Growth Investing</p>
+                <p className="m-0">A Virtual Festival Platform.</p>
                 <p className="m-0">
                   <h1></h1>
                 </p>
@@ -195,11 +192,9 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
-                <h3 className="mt-0 mb-12">Citizen Saturday</h3>
+                <h3 className="mt-0 mb-12">Amor</h3>
                 <p className="m-0">
-                  A decade of experience in Digital Media and Entertainment
-                  across Film & Television Acting, Music Production, and
-                  experience at a Major Record Label & Talent Agency.
+                  Dating using Data Science to optimize pairing.
                 </p>
                 <p className="m-0">
                   <h1></h1>
@@ -248,10 +243,10 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
-                <h3 className="mt-0 mb-12">Siren</h3>
+                <h3 className="mt-0 mb-12">Colosseum</h3>
                 <p className="m-0">
-                  Intensive focus on next generation technology & product
-                  development.
+                  A aosftware booking platform for matching artists and
+                  promoters globally.
                 </p>
                 <p className="m-0">
                   <h1></h1>
@@ -299,11 +294,10 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
-                <h3 className="mt-0 mb-12">Citizen Saturday</h3>
+                <h3 className="mt-0 mb-12">Sahara</h3>
                 <p className="m-0">
-                  A decade of experience in Digital Media and Entertainment
-                  across Film & Television Acting, Music Production, and
-                  experience at a Major Record Label & Talent Agency.
+                  Auto Mixing your favorite music for elevated listening
+                  sessions.
                 </p>
                 <p className="m-0">
                   <h1></h1>
