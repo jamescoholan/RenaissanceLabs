@@ -73,11 +73,9 @@ const FeaturesTiles = ({
                     wideMobile
                     href="https://main.da1pi863uofsj.amplifyapp.com"
                   >
-                    Citizen Saturday
+                    Agora
                   </Button>
-                  <p className="m-0 text-sm">
-                    Ironing Out Pain Points of Social Life
-                  </p>
+                  <p className="m-0 text-sm">A Platform for Virtual Concerts</p>
                 </div>
               </div>
             </div>
@@ -135,9 +133,11 @@ const FeaturesTiles = ({
                     wideMobile
                     href="https://www.experienceagora.com"
                   >
-                    Agora
+                    Citizen Saturday
                   </Button>
-                  <p className="m-0 text-sm">A Platform for Virtual Concerts</p>
+                  <p className="m-0 text-sm">
+                    Ironing Out Pain Points of Social Life
+                  </p>
                 </div>
               </div>
             </div>

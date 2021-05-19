@@ -245,8 +245,8 @@ const FeaturesSplit = ({
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
                 <h3 className="mt-0 mb-12">Colosseum</h3>
                 <p className="m-0">
-                  A aosftware booking platform for matching artists and
-                  promoters globally.
+                  A software booking platform for matching artists and promoters
+                  globally.
                 </p>
                 <p className="m-0">
                   <h1></h1>
@@ -345,7 +345,7 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
-                <h3 className="mt-0 mb-12">Agora</h3>
+                <h3 className="mt-0 mb-12">Campanile Holdings</h3>
                 <p className="m-0">High Growth Investing</p>
                 <p className="m-0">
                   <h1></h1>
@@ -392,7 +392,7 @@ const FeaturesSplit = ({
                 className="split-item-content center-content-mobile reveal-from-right"
                 data-reveal-container=".split-item"
               >
-                <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
+                {/* <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
                 <h3 className="mt-0 mb-12">Citizen Saturday</h3>
                 <p className="m-0">
                   A decade of experience in Digital Media and Entertainment
@@ -421,21 +421,21 @@ const FeaturesSplit = ({
                       Agora
                     </Button>
                   </ButtonGroup>
-                </div>
-              </div>
+                </div> */}
+                {/* </div>
               <div
                 className={classNames(
                   "split-item-image center-content-mobile reveal-from-bottom",
                   imageFill && "split-item-image-fill"
                 )}
                 data-reveal-container=".split-item"
-              >
-                <Image
+              > */}
+                {/* <Image
                   src={require("./../../assets/images/Hero-Solutions-Media-Entertainment.jpeg")}
                   alt="Features split 02"
                   width={528}
                   height={396}
-                />
+                /> */}
               </div>
             </div>
           </div>
