@@ -138,7 +138,7 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={require("./../../assets/images/Hero-Solutions-Media-Entertainment.jpeg")}
+                  src={require("./../../assets/images/CS.png")}
                   alt="Features split 02"
                   width={528}
                   height={396}
@@ -331,7 +331,7 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={require("./../../assets/images/Hero-Solutions-Media-Entertainment.jpeg")}
+                  src={require("./../../assets/images/sahara.jpeg")}
                   alt="Features split 02"
                   width={528}
                   height={396}
