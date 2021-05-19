@@ -96,7 +96,7 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={require("./../../assets/images/AdobeStock_118793641-1320x740-1.jpeg")}
+                  src={require("./../../assets/images/Siren2.png")}
                   alt="Features split 01"
                   width={528}
                   height={396}
@@ -179,7 +179,7 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={require("./../../assets/images/affiliated-companies-1024x614.webp")}
+                  src={require("./../../assets/images/6.png")}
                   alt="Features split 03"
                   width={528}
                   height={396}
@@ -380,7 +380,7 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={require("./../../assets/images/affiliated-companies-1024x614.webp")}
+                  src={require("./../../assets/images/campanile.png")}
                   alt="Features split 03"
                   width={528}
                   height={396}
@@ -392,12 +392,18 @@ const FeaturesSplit = ({
                 className="split-item-content center-content-mobile reveal-from-right"
                 data-reveal-container=".split-item"
               >
-                {/* <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
-                <h3 className="mt-0 mb-12">Citizen Saturday</h3>
+                <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
+                <h3 className="mt-0 mb-12"> SYB Media</h3>
                 <p className="m-0">
-                  A decade of experience in Digital Media and Entertainment
-                  across Film & Television Acting, Music Production, and
-                  experience at a Major Record Label & Talent Agency.
+                  <p>Digital Marketing & Live Event Sales</p>
+                  <p>Technology Driven Music & Digital Media Brand</p>
+                  <p>NFT Media Asset Minting</p>
+                  <p>Mobile & Web App Development</p>
+                  <p>
+                    Virtual Music Media Production and Distribution
+                    Entertainment
+                  </p>
+                  <p>Fashion Merchandising</p>
                 </p>
                 <p className="m-0">
                   <h1></h1>
@@ -412,30 +418,30 @@ const FeaturesSplit = ({
                     >
                       SYB Media
                     </Button>
-                    <Button
+                    {/* <Button
                       tag="a"
                       color="dark"
                       wideMobile
                       href="https://www.experienceagora.com/"
                     >
                       Agora
-                    </Button>
+                    </Button> */}
                   </ButtonGroup>
-                </div> */}
-                {/* </div>
+                </div>
+              </div>
               <div
                 className={classNames(
                   "split-item-image center-content-mobile reveal-from-bottom",
                   imageFill && "split-item-image-fill"
                 )}
                 data-reveal-container=".split-item"
-              > */}
-                {/* <Image
-                  src={require("./../../assets/images/Hero-Solutions-Media-Entertainment.jpeg")}
+              >
+                <Image
+                  src={require("./../../assets/images/syb.png")}
                   alt="Features split 02"
                   width={528}
                   height={396}
-                /> */}
+                />
               </div>
             </div>
           </div>
